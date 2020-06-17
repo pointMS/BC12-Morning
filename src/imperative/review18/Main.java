@@ -1,6 +1,6 @@
 package imperative.review18;
 
-import org.apache.commons.lang3.ArrayUtils;
+
 
 /**
  * Created for BC12-Morning.
@@ -16,6 +16,6 @@ public class Main {
         int[] intArray = { 1, 2, 3, 4, 5 };
         int[] intArray2 = { 6, 7, 8, 9, 10 };
 // Apache Commons Lang library
-        int[] combinedIntArray = ArrayUtils.addAll(intArray, intArray2);
+        //int[] combinedIntArray = ArrayUtils.addAll(intArray, intArray2);
     }
 }
